@@ -12,6 +12,8 @@
 - Em quais pacotes encontro um componente de Imagem? Qual melhor para usarmos atualmente?
 - O que são propriedades de componentes?
 - O que são Hooks?
+- para que serve e como funciona o useState e use Effect
+UseEffect é um hook que fuunciona como um gatilho, toda vez que um componente é usado pela primeira vez, ele dispara uma função que eu especificar. Toda vez que o estado de algo que eu estiver obeservando mudar, ele dispara uma função que eu especificar
 
 Extra
 
